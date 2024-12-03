@@ -1,4 +1,5 @@
 fn main() {
+    println!("day x");
     let input = include_str!("./input/input.txt");
     let part1 = part_one(input);
     println!("part 1: {}", part1);
